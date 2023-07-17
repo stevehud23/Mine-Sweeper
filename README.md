@@ -7,18 +7,21 @@
 
 Table of Contents:
 ------------------
-- 1. Introduction
+1. Introduction
      
-- 2. Usage
+2. Usage
      
-- 3.0 Function Documentation
+3.0 Function Documentation
+
     3.1. Acknowledgements:
     3.2. More game info / video
    
 1. Introduction:
 ----------------
 BEFORE RUNNING THIS APP PLEASE INSTALL THE FOLLOWING:
+
 tkinter: Python's standard GUI package -- pip install tkinter
+
 pygame: Library for audio playback     -- pip install pygame
 
 
